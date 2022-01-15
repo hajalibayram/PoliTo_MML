@@ -1,2 +1,2 @@
-# PoliTo_MML
-Project for Applications of Mathematics in Machine Learning 
+# Applications of Mathematics in Machine Learning 
+Bank Marketing Dataset Analysis using ML
